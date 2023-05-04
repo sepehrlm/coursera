@@ -13,6 +13,10 @@
   background-color: blanchedalmond;
 }
 
+.item :hover{
+background-color: red;
+}
+
 #col1{
   height: 1000px;
   background-color: gray;
