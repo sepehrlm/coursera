@@ -11,10 +11,12 @@
   border-collapse: collapse;
   margin: -1px;
   background-color: darkslategrey;
+  color: white;
 }
 
 .item:hover{
   background-color: gainsboro;
+  color: black;
 }
 
 #col1{
